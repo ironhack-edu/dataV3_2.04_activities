@@ -1,0 +1,5 @@
+
+Conduct some research on the differences between structured and unstructured data. You can use the following link for reference: [https://www.datamation.com/big-data/structured-vs-unstructured-data.html](https://www.datamation.com/big-data/structured-vs-unstructured-data.html). Feel free to use any other resource as well.
+
+Every student would explain one difference to the other students in class.
+
