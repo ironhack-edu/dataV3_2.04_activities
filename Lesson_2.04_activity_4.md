@@ -1,6 +1,6 @@
 # 2.04 Activity 4
 
-Refer to `files_for_activities/mysql_dump.sql` database. Load it to Sequel Pro, and there you will find a `bank` database which we will use for the following exercise. This is the same database used for the class example. Keep using the `bank` database for iterations that are related to it (3 and 4).
+In this case we will use the same `bank` database that we used in class.
 
 1. The `select` statement is used as a print command in SQL. Use the `select` statement to print "Hello World".
 2. Use the select statement to perform a simple mathematical calculation to add two numbers. 
